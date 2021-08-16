@@ -65,6 +65,14 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
 }
@@ -83,20 +91,55 @@
 .sticky_1 {
   text-align:left;
 }
+.sticky_4 {
+  text-align:left;
+}
 .table_cell {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
 }
 .label {
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 .shape {
+}
+.connector {
 }
 .box_1 {
 }
 .box_2 {
 }
+.box_3 {
+}
+.ellipse {
+}
 .image {
   color:#000000;
+}
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .flow_shape {
 }
