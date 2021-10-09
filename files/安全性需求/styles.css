@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u324_img {
+#u335_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:502px;
   height:100px;
 }
-#u324 {
+#u335 {
   border-width:0px;
   position:absolute;
   left:40px;
@@ -36,14 +36,14 @@
   color:#FF3399;
   text-align:left;
 }
-#u324 .text {
+#u335 .text {
   position:absolute;
   align-self:flex-start;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u324_text {
+#u335_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
